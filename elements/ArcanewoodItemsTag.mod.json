@@ -1,0 +1,20 @@
+{
+  "_fv": 33,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:ArcanewoodWood"
+      },
+      {
+        "value": "CUSTOM:ArcanewoodLog"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "name": "arcanewood_log",
+    "namespace": "forge"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "_fv": 33,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "melhaniteinstruments_hoe",
+    "customModelName": "Normal",
+    "name": "Melhaniteinstruments Hoe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:EEReforged"
+    },
+    "toolType": "Hoe",
+    "harvestLevel": 1,
+    "efficiency": 1.0,
+    "attackSpeed": 1.0,
+    "enchantability": 30,
+    "damageVsEntity": 1.0,
+    "usageCount": 1000,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Melhanite"
+      }
+    ],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_fv": 33,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "remove-bg.ai_1697113538064_1",
+    "customModelName": "Normal",
+    "name": "Ice Flame",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:EEReforged"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 3,
+    "efficiency": 4.0,
+    "attackSpeed": 1.6,
+    "enchantability": 250,
+    "damageVsEntity": 14.0,
+    "usageCount": 2000,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Crystallotos"
+      },
+      {
+        "value": "CUSTOM:Artifactcore"
+      }
+    ],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "onEntityHitWith": {
+      "name": "IceFlameTriggereffect"
+    }
+  }
+}

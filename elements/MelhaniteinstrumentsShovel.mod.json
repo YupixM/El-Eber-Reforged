@@ -1,0 +1,31 @@
+{
+  "_fv": 33,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "melhaniteinstruments_shovel",
+    "customModelName": "Normal",
+    "name": "Melhaniteinstruments Shovel",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:EEReforged"
+    },
+    "toolType": "Spade",
+    "harvestLevel": 1,
+    "efficiency": 4.0,
+    "attackSpeed": 1.0,
+    "enchantability": 30,
+    "damageVsEntity": 2.0,
+    "usageCount": 1000,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Melhanite"
+      }
+    ],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

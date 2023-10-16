@@ -1,0 +1,116 @@
+{
+  "_fv": 33,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "Kettle",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Kettle",
+          "x": 198,
+          "y": 41
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Brew",
+          "onClick": {
+            "name": "Kettlerecipeprocedure"
+          },
+          "width": 46,
+          "height": 20,
+          "name": "Brew",
+          "x": 191,
+          "y": 97
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 0,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": false,
+          "name": "Slot #0",
+          "x": 176,
+          "y": 53
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 1,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": false,
+          "name": "Slot #1",
+          "x": 196,
+          "y": 53
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 2,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": false,
+          "name": "Slot #2",
+          "x": 216,
+          "y": 53
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 3,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": false,
+          "name": "Slot #3",
+          "x": 236,
+          "y": 53
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 4,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": false,
+          "name": "Slot #4",
+          "x": 206,
+          "y": 78
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 10,
+      "sy": 10,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

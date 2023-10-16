@@ -1,0 +1,200 @@
+{
+  "_fv": 33,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 176,
+    "height": 220,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "text": "Magic Altar",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Magic Altar",
+          "x": 183,
+          "y": 13
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 10,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": false,
+          "name": "Slot #10",
+          "x": 168,
+          "y": 53
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Infuse",
+          "onClick": {
+            "name": "Magicaltarrecipes"
+          },
+          "width": 56,
+          "height": 20,
+          "name": "Infuse",
+          "x": 183,
+          "y": 99
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 11,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": false,
+          "name": "Slot #11",
+          "x": 204,
+          "y": 26
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 12,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": false,
+          "name": "Slot #12",
+          "x": 240,
+          "y": 26
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 13,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": false,
+          "name": "Slot #13",
+          "x": 168,
+          "y": 26
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 14,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": false,
+          "name": "Slot #14",
+          "x": 204,
+          "y": 80
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 15,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": false,
+          "name": "Slot #15",
+          "x": 168,
+          "y": 80
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 16,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": false,
+          "name": "Slot #16",
+          "x": 240,
+          "y": 80
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 17,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": false,
+          "name": "Slot #17",
+          "x": 240,
+          "y": 53
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 18,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": false,
+          "name": "Slot #18",
+          "x": 204,
+          "y": 53
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 19,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": false,
+          "name": "Slot #19",
+          "x": 141,
+          "y": 53
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 20,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": false,
+          "name": "Slot #20",
+          "x": 267,
+          "y": 53
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": true
+    }
+  }
+}

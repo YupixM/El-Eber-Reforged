@@ -1,0 +1,46 @@
+{
+  "_fv": 33,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 4,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:ArcanewoodPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:ArcanewoodPlanks"
+      },
+      {
+        "value": "CUSTOM:ArcanewoodPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:ArcanewoodPlanks"
+      },
+      {
+        "value": "CUSTOM:ArcanewoodPlanks"
+      },
+      {
+        "value": "CUSTOM:ArcanewoodPlanks"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:ArcanewoodStairs"
+    },
+    "name": "arcanewood_stairs_recipe",
+    "namespace": "mod"
+  }
+}

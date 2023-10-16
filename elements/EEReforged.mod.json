@@ -1,0 +1,11 @@
+{
+  "_fv": 33,
+  "_type": "tab",
+  "definition": {
+    "name": "EE Reforged",
+    "icon": {
+      "value": "CUSTOM:Magiccrystal"
+    },
+    "showSearch": false
+  }
+}

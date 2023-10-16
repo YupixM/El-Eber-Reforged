@@ -1,0 +1,42 @@
+{
+  "_fv": 33,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "7e7ccc1c5649bb891a267eebf44bc4bd",
+    "customModelName": "Normal",
+    "name": "Ectoplasm",
+    "rarity": "COMMON",
+    "creativeTab": {
+      "value": "CUSTOM:EEReforgedWIP"
+    },
+    "stackSize": 64,
+    "enchantability": 0,
+    "useDuration": 32,
+    "toolType": 1.0,
+    "damageCount": 0,
+    "recipeRemainder": {
+      "value": ""
+    },
+    "destroyAnyBlock": false,
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "specialInfo": [],
+    "hasGlow": false,
+    "guiBoundTo": "<NONE>",
+    "inventorySize": 9,
+    "inventoryStackSize": 64,
+    "isFood": false,
+    "nutritionalValue": 0,
+    "saturation": 0.0,
+    "eatResultItem": {
+      "value": ""
+    },
+    "isMeat": false,
+    "isAlwaysEdible": false,
+    "animation": "eat"
+  }
+}

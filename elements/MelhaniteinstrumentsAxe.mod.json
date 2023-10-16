@@ -1,0 +1,31 @@
+{
+  "_fv": 33,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "melhaniteinstruments_axe",
+    "customModelName": "Normal",
+    "name": "Melhaniteinstruments Axe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:EEReforged"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 5,
+    "efficiency": 9.0,
+    "attackSpeed": 0.8,
+    "enchantability": 50,
+    "damageVsEntity": 9.0,
+    "usageCount": 1000,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Melhanite"
+      }
+    ],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

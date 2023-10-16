@@ -1,0 +1,31 @@
+{
+  "_fv": 33,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "melhaniteinstruments_sword",
+    "customModelName": "Normal",
+    "name": "Melhaniteinstruments Sword",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:EEReforged"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 1,
+    "efficiency": 2.0,
+    "attackSpeed": 1.2999999999999998,
+    "enchantability": 50,
+    "damageVsEntity": 9.0,
+    "usageCount": 1000,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Melhanite"
+      }
+    ],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

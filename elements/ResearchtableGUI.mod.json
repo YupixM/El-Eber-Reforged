@@ -1,0 +1,126 @@
+{
+  "_fv": 33,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "button",
+        "data": {
+          "text": "Research",
+          "onClick": {
+            "name": "Craftscience"
+          },
+          "width": 67,
+          "height": 20,
+          "name": "Research",
+          "x": 178,
+          "y": 97
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Research Table",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Research Table",
+          "x": 175,
+          "y": 43
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 0,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": false,
+          "name": "Slot #0",
+          "x": 131,
+          "y": 73
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 1,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": false,
+          "name": "Slot #1",
+          "x": 166,
+          "y": 73
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 2,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": false,
+          "name": "Slot #2",
+          "x": 191,
+          "y": 73
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 3,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": false,
+          "name": "Slot #3",
+          "x": 216,
+          "y": 73
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 4,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": false,
+          "name": "Slot #4",
+          "x": 276,
+          "y": 73
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "imgonline-com-ua-resize-fxixttc7nday5vz.png",
+          "use1Xscale": false,
+          "name": "imgonline-com-ua-resize-fxixttc7nday5vz.png",
+          "x": 238,
+          "y": 66
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 10,
+      "sy": 10,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}
